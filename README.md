@@ -73,9 +73,19 @@ As informações preenchidas eram enviadas por e-mail diretamente ao setor de TI
 Geralmente, o problema já era identificado com base na descrição enviada. Em casos raros, entrávamos em contato com o usuário pelo número preenchido no formulário para mais esclarecimentos.
 
 ## Resultados Obtidos
-### Centralização de Chamados: Organização e melhor acompanhamento das solicitações técnicas.
-### Atendimento Rápido: A eficiência do sistema contribuiu para uma resposta ágil às demandas das secretarias.
-### Simplicidade e Usabilidade: A interface intuitiva garantiu uma boa experiência para os usuários.
+### Centralização de Chamados: 
+
+Organização e melhor acompanhamento das solicitações técnicas.
+
+
+### Atendimento Rápido: 
+
+A eficiência do sistema contribuiu para uma resposta ágil às demandas das secretarias.
+
+
+### Simplicidade e Usabilidade: 
+
+A interface intuitiva garantiu uma boa experiência para os usuários.
 
 
 ## Tecnologias Utilizadas
